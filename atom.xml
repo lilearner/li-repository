@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lilearner.github.io</id>
     <title>Lilearner</title>
-    <updated>2020-04-28T02:23:43.697Z</updated>
+    <updated>2020-04-28T03:22:35.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lilearner.github.io"/>
     <link rel="self" href="https://lilearner.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://lilearner.github.io/images/avatar.png</logo>
     <icon>https://lilearner.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lilearner</rights>
+    <entry>
+        <title type="html"><![CDATA[开始了Andriod的学习啦]]></title>
+        <id>https://lilearner.github.io/post/kai-shi-liao-andriod-de-xue-xi-la/</id>
+        <link href="https://lilearner.github.io/post/kai-shi-liao-andriod-de-xue-xi-la/">
+        </link>
+        <updated>2020-04-28T02:35:28.000Z</updated>
+        <summary type="html"><![CDATA[<pre><code>我的《第一行代码》第三版到货了！非常的开心😀。同时也意味着我Android的学习就要开始了✊。
+</code></pre>
+<figure data-type="image" tabindex="1"><img src="https://lilearner.github.io/post-images/1588043946700.jpg" alt="" loading="lazy"></figure>
+]]></summary>
+        <content type="html"><![CDATA[<pre><code>我的《第一行代码》第三版到货了！非常的开心😀。同时也意味着我Android的学习就要开始了✊。
+</code></pre>
+<figure data-type="image" tabindex="1"><img src="https://lilearner.github.io/post-images/1588043946700.jpg" alt="" loading="lazy"></figure>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://lilearner.github.io/post/hello-gridea/</id>
