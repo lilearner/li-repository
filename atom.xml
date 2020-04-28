@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lilearner.github.io</id>
     <title>Lilearner</title>
-    <updated>2020-04-28T03:34:30.538Z</updated>
+    <updated>2020-04-28T03:35:55.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lilearner.github.io"/>
     <link rel="self" href="https://lilearner.github.io/atom.xml"/>
@@ -18,11 +18,11 @@
         <updated>2020-04-28T02:35:28.000Z</updated>
         <summary type="html"><![CDATA[<pre><code>我的《第一行代码》第三版到货了！非常的开心😀。同时也意味着我Android的学习就要开始了✊。
 </code></pre>
-<figure data-type="image" tabindex="1"><img src="https://lilearner.github.io/post-images/1588044853400.jpg" alt="" loading="lazy"></figure>
+<!-- ![](https://lilearner.github.io/post-images/1588044853400.jpg) -->
 ]]></summary>
         <content type="html"><![CDATA[<pre><code>我的《第一行代码》第三版到货了！非常的开心😀。同时也意味着我Android的学习就要开始了✊。
 </code></pre>
-<figure data-type="image" tabindex="1"><img src="https://lilearner.github.io/post-images/1588044853400.jpg" alt="" loading="lazy"></figure>
+<!-- ![](https://lilearner.github.io/post-images/1588044853400.jpg) -->
 ]]></content>
     </entry>
     <entry>
