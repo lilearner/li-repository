@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lilearner.github.io</id>
     <title>Lilearner</title>
-    <updated>2020-05-12T15:47:58.361Z</updated>
+    <updated>2020-05-12T15:55:23.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lilearner.github.io"/>
     <link rel="self" href="https://lilearner.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://lilearner.github.io/images/avatar.png</logo>
     <icon>https://lilearner.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lilearner</rights>
+    <entry>
+        <title type="html"><![CDATA[终于要真正接触Android]]></title>
+        <id>https://lilearner.github.io/post/zhong-yu-yao-zhen-zheng-jie-hong-android/</id>
+        <link href="https://lilearner.github.io/post/zhong-yu-yao-zhen-zheng-jie-hong-android/">
+        </link>
+        <updated>2020-05-12T15:49:03.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开开心心]]></title>
         <id>https://lilearner.github.io/post/kai-kai-xin-xin/</id>
